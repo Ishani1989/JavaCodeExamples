@@ -1,0 +1,6 @@
+Laddu 2
+Teddy 27
+Jo 35
+Joseph 50
+Suresh 40
+Hello 99
